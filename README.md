@@ -67,3 +67,7 @@ Here are some ideas to get you started:
 ![sutiwat's Stats](https://github-readme-stats.vercel.app/api?username=sutiwat&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
 ![sutiwat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sutiwat&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
+<h5>Forward Test System Trade</h5>
+<a href="https://www.myfxbook.com/members/sutiwat/xm-target/11533349"><img alt="widget" src="https://widget.myfxbook.com/widget/widget.png?accountOid=11533349&type=4"/></a>
+<a href="https://www.myfxbook.com/members/sutiwat/xm-chf-2025/11487611"><img alt="widget" src="https://widget.myfxbook.com/widget/widget.png?accountOid=11487611&type=4"/></a>
