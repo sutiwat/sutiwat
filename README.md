@@ -4,7 +4,7 @@ Sutiwat Phichetwornkul
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/sutiwatp/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  Email: sutiwatunderworld@hotmail.com
+  <br/>Email: sutiwatunderworld@hotmail.com
 </div>
 
 <!--
