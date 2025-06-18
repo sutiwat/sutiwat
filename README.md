@@ -3,7 +3,7 @@
 Sutiwat Phichetwornkul
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/sutiwatp/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/sutiwatp/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <br/>Email: sutiwatunderworld@hotmail.com
 </div>
 
@@ -56,8 +56,8 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="apacheairflow" **alt="apacheairflow" width="40" height="40"/>
 </div>
-<h5>Personal project : <a href="https://www.notion.so/Project-Overview-1cc5f83679f080729156e08369c941a5?pvs=12">Project Log</a></h5>
-<h5>Side Project <a href="https://aegisshadow.com/" target="blank">AegisShadow</a></h5>
+<h5>Personal project : <a href="https://www.notion.so/Project-Overview-1cc5f83679f080729156e08369c941a5?pvs=12" target="_blank">Project Log</a></h5>
+<h5>Side Project <a href="https://aegisshadow.com/" target="_blank">AegisShadow</a></h5>
 
 <h5>Objective: I want to work in AI and finance, using my programming skills to create automated systems.</h5>
 
