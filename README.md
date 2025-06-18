@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <h5>Objective: I want to work in AI and finance, using my programming skills to create automated systems.</h5>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sutiwat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=sutiwat&theme=dark)](https://git.io/streak-stats)
 
 ![sutiwat's Stats](https://github-readme-stats.vercel.app/api?username=sutiwat&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
