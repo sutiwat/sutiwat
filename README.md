@@ -59,8 +59,10 @@ Here are some ideas to get you started:
 <h5>Personal project : <a href="https://www.notion.so/Project-Overview-1cc5f83679f080729156e08369c941a5?pvs=12" target="_blank">Project Log</a></h5>
 <h5>Side Project <a href="https://aegisshadow.com/" target="_blank">AegisShadow</a></h5>
 
-<h5>Objective: I want to work in AI and finance, using my programming skills to create automated systems.</h5>
+<h4>Objective: I want to work in AI and finance, using my programming skills to create automated systems.</h4>
+<br/>
 
+![Codewars](https://github.r2v.ch/codewars?user=sutiwat&stroke=%23BB432C)
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=sutiwat&theme=dark)](https://git.io/streak-stats)
 
